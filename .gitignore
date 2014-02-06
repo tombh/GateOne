@@ -2,3 +2,12 @@
 *.kate-swp
 .DS_Store
 .directory
+gateone.pid
+/venv
+/.venv
+/conf.d
+/logs
+/sessions
+/ssl
+/users
+/cache
