@@ -1,1 +1,1 @@
-web: python run_gateone.py --disable_ssl=True --origins='*' --port=80
+web: python run_gateone.py --disable_ssl=True --origins='*' --port=$PORT
